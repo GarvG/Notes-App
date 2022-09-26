@@ -1,0 +1,29 @@
+{
+"server":{
+    "Running":"Server Running on PORT"
+} ,
+"Mongo":{
+"Connected":"MongoDB Connected!!"
+} ,
+"error":{
+    "errorOccured":"Error errorOccured !!!"
+},
+"User":{
+    "UserExist":"User Already Exists! "
+},
+"Invalid":{
+    "email":"email or password Invalid!!",
+    "AllField": "Please fill all the Feild!!",
+    "notenotfound":"Note not Found!!",
+    "cannot":"You cannot Perform this Action!!",
+    "note":"Note Removed!!",
+    "notcreated":"No File Will be Created for Type-Text!!"
+},
+"Auth":{
+    "InvalidAuth":"Not Authorized token failed!!!",
+    "NoToken":"No Token cannot Authorized !!!"
+},
+"File":{
+    "download":"File downloaded!!"
+}  
+}
